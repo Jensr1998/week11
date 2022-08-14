@@ -1,0 +1,99 @@
+body{
+
+    text-align: center;
+    
+    width: 250px;
+    
+    margin: auto;
+    
+    font-family: fantasy;
+    
+    background: linear-gradient(to right, rgb(113, 14, 122), rgb(188, 15, 15));
+    
+    position: relative;
+    
+    top: 100px;
+    
+    }
+    
+    
+    table{
+    
+    border-width: 1px;
+    
+    }
+    
+    #reset{
+    
+    
+    
+    padding-top: 20px;
+    
+    }
+    
+    #btn {
+    
+    font-family: courier;
+    
+    font-size: 20px;
+    
+    font-weight: 900;
+    
+    outline: none;
+    
+    background-color: rgb(6, 131, 153);
+    
+    color: white;
+    
+    border-style: solid;
+    
+    
+    padding: 10px;
+    
+    border-radius: 10px;
+    
+    }
+    
+    #btn:hover {
+    
+    background-color: white;
+    
+    border-color: white;
+    
+    color: #1E88E5;
+    
+    }
+    
+    
+    
+    h1{
+    
+    border-bottom: 1px solid rgb(0, 0, 0);
+    
+    font-size: 30px;
+    
+    }
+    
+    #message{
+    
+    font-size: 15px;
+    
+    color: black;
+    
+    padding-bottom: 20px;
+    
+    }
+    
+    .box{
+    
+    height: 80px;
+    
+    width: 80px;
+    
+    font-size: 40px;
+    
+    text-align: center;
+    
+    font-weight: bold;
+    
+    }
